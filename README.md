@@ -15,4 +15,5 @@ A Ecoviagens é uma plataforma de turismo sustentável voltada para a oferta de 
 Neste cenário, a análise dos dados da plataforma tem como objetivo compreender o comportamento das reservas, a popularidade das ofertas e a adesão às práticas sustentáveis.
 A partir disso, busca-se identificar padrões de consumo, preferências dos clientes e oportunidades de melhoria na plataforma. A partir fisso
 
-Indicadores de Performance (KPI):
+### Principais Indicadores Chave de Desempenho:
+- Receita Bruta por Mês: 
