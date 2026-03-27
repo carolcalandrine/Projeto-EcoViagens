@@ -25,9 +25,10 @@ A partir disso, busca-se identificar padrões de consumo, preferências dos clie
 ## 🧩 Modelagem dos Dados
 
 A modelagem dos dados foi desenvolvida com o objetivo de organizar as informações de forma estruturada, permitindo análises eficientes.
-O modelo segue o formato estrela, sendo composto por:
-
-- Tabela fato: responsável por armazenar os dados de vendas  
-- Tabelas dimensão: responsáveis por descrever os dados (clientes, produtos, tempo)
+O modelo foi construído considerando as principais entidades do negócio, como:
+- Ofertas
+- Reservas
+- Práticas Sustentáveis
+- Avaliação
 
 Essa estrutura facilita a análise no SQL e a construção de dashboards no Power BI.
