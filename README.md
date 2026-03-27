@@ -16,4 +16,11 @@ Neste cenário, a análise dos dados da plataforma tem como objetivo compreender
 A partir disso, busca-se identificar padrões de consumo, preferências dos clientes e oportunidades de melhoria na plataforma. A partir fisso
 
 ### Principais Indicadores Chave de Desempenho:
-- Receita Bruta por Mês: 
+- Receita Bruta por Mês: medir o volume de vendas e a adesão dos clientes à plataforma;
+- Taxa de Cancelamento: identificar problemas operacionais e insatisfação dos clientes;
+- Avaliação média: medir a satisfação e qualidade percebida pelos clientes;
+- Média de Práticas Sustentáveis:
+
+
+## 🧩 Modelagem dos Dados
+
