@@ -32,6 +32,7 @@ Neste projeto, a análise em SQL foi realizada com o objetivo de extrair informa
 As análises foram realizadas utilizando o Google BigQuery por ter alta escalabilidade, e pela velocidade da consulta com grande quantidade de dados.
 
 **Exemplo de análise: Receita por período**
+
 A consulta abaixo foi utilizada para calcular a receita total ao longo do tempo:
 ```sql
 SELECT
