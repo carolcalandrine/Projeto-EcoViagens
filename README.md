@@ -26,14 +26,25 @@ O modelo foi construído considerando as todas entidades do negócio, como:
 Essa estrutura facilita a análise no SQL e a construção de dashboards no Power BI.
 ![Diagrama](1.%20Modelagem-dados/Diagrama.png)
 
-## 🗄️ Análise dos Dados via SQL
+<h2 align="center"> Análise dos Dados via SQL</h2><p align="center">
 
 Neste projeto, a análise em SQL foi realizada com o objetivo de extrair informações relevantes linguagem foi usada para explorar e analisar os dados, responder as perguntas de negócios a partir dos dados.
 As análises foram realizadas utilizando o Google BigQuery por ter alta escalabilidade, e pela velocidade da consulta com grande quantidade de dados.
 
-### Exemplo de análise: Receita por período
+**Exemplo de análise: Receita por período**
 A consulta abaixo foi utilizada para calcular a receita total ao longo do tempo:
-
+```sql
+SELECT
+  EXTRACT(YEAR FROM data_reserva) AS ano,
+  EXTRACT(MONTH FROM data_reserva) AS mes,
+  FORMAT_DATE('%b', DATE(data_reserva)) AS mes_abrev,
+  COUNT(*) AS qtd_reservas
+FROM `ecoviagens-484814.plataforma.reservas`
+WHERE UPPER(status) = 'CONCLUÍDA'
+GROUP BY 
+  ano, mes, mes_abrev
+ORDER BY 
+  ano ASC, mes ASC;
 
 
 
