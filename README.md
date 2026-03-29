@@ -81,4 +81,9 @@ Monitoramento:
 
 <h2 align="center"> Conclusão & Recomendações</h2><p align="center">
 Essa análise dos dados da plataforma Ecoviagens revelou alguns insights sobre fatores que influenciam... Nesse sentido, serão destacados os principais achados nesse estudo.
-- 
+- A plataforma apresenta um volume total de 791 reservas concluídas, indicando uma base ativa de utilização, porém ainda com potencial de crescimento
+- Observa-se uma concentração de reservas em meses específicos, possivelmente associado a períodos de férias e maior disponibilidade dos clientes
+- A maior parte das reservas está associada a ofertas com práticas sustentáveis, indicando que esse fator pode influenciar positivamente a decisão dos clientes
+- A receita apresenta variação ao longo dos meses, acompanhando o volume de reservas, o que reforça a relação direta entre demanda e faturamento da plataforma
+- A avaliação média de 2,99 indica um nível de satisfação abaixo do ideal, sugerindo a necessidade de melhorias na experiência do cliente
+
