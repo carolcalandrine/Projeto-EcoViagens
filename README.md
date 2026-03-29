@@ -24,7 +24,7 @@ O modelo foi construído considerando as todas entidades do negócio, como:
 - Avaliação
 
 Essa estrutura facilita a análise no SQL e a construção de dashboards no Power BI.
-![Diagrama](1.%20Modelagem-dados/Diagrama.png)
+![Diagrama](1.%20Modelagem-dados/diagrama.png)
 
 <h2 align="center"> Análise dos Dados via SQL</h2><p align="center">
 
