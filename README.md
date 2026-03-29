@@ -1,4 +1,7 @@
-<h1 align="center"> Projeto EcoViagens</h1>
+<p align="center">
+  <img src="3.%20Relatório/logo.png" width="750"/>
+</p>
+<h1 align="center"> Projeto EcoViagens: Plataforma de Reservas de Turismo Sustentável</h1>
 
 <h2 align="center"> Contexto do Projeto</h2><p align="center">
 
