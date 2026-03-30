@@ -4,15 +4,16 @@
 
 ## Contexto do Projeto
 
-A **EcoViagens** é uma plataforma de turismo sustentável sediada no Brasil que é voltada para a oferta de experiências ecológicas em parceria com operadores locais, promovendo práticas que geram impacto positivo ao meio ambiente e às comunidades. Os dados disponíveis abragem dimensões e métricas, incluindo reservas, informações sobre os operadores e atividades e análises relacionadas com a sustentabilidade.
+A EcoViagens é uma plataforma brasileira de turismo sustentável, dedicada à oferta de experiências ecológicas em parceria com operadores locais. Seu objetivo é promover práticas que gerem impacto positivo tanto para o meio ambiente quanto para as comunidades envolvidas. A base de dados disponível contempla diferentes dimensões e métricas, incluindo informações sobre reservas, operadores, atividades e indicadores relacionados à sustentabilidade.
 
-Nesse sentido, esse projeto utiliza um conjunto de dados ficticios visando analisar e avaliar o desempenho da **Ecoviagens** no período de junho de 2024 a junho de 2025. Essa análise fornece informações para ajudar a monitorar o desempenho da plataforma e transformar insights em decisões de negócios da **EcoViagens**. A partir disso, os principais indicadores e métricas são:
+Neste contexto, o presente projeto utiliza um conjunto de dados fictícios com o objetivo de analisar e avaliar o desempenho da EcoViagens no período de junho de 2024 a junho de 2025. A análise busca gerar insights relevantes para o monitoramento da performance da plataforma, apoiando a tomada de decisões estratégicas e orientadas por dados.
 
-**Principais Indicadores Chave de Desempenho (KPI):**
-- Receita Bruta por Mês: medir o volume de vendas e a adesão dos clientes à plataforma;
-- Taxa de Cancelamento: identificar problemas operacionais e insatisfação dos clientes;
-- Avaliação média: medir a satisfação e qualidade percebida pelos clientes;
-- Média de Práticas Sustentáveis:
+A partir disso, foram definidos os seguintes Indicadores-Chave de Desempenho (KPIs):
+
+**Receita Bruta por Mês:** mensurar o volume de vendas e o nível de adesão dos clientes à plataforma;
+**Taxa de Cancelamento:** identificar possíveis falhas operacionais e níveis de insatisfação dos clientes;
+**Avaliação Média:** avaliar a satisfação dos usuários e a qualidade percebida dos serviços;
+**Média de Práticas Sustentáveis:** mensurar o nível de adesão às práticas sustentáveis por parte dos operadores e experiências oferecidas.
 
 
 ## Modelagem dos Dados
