@@ -69,7 +69,7 @@ GROUP BY
 ORDER BY 
   ano ASC, mes ASC;
 ```
-As consultas SQL utilizadas neste projeto estão disponíveis [aqui](https://github.com/seu-usuario/seu-repositorio/tree/main/sql).
+As consultas SQL utilizadas neste projeto estão disponíveis [aqui]([https://github.com/seu-usuario/seu-repositorio/tree/main/sql](https://github.com/caroline15calandrine-cell/Projeto-EcoViagens/blob/main/2.%20An%C3%A1lise-sql/Ecoviagens.sql)).
 
 ## Dashboard de Desempenho da Plataforma
 
