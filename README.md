@@ -18,25 +18,31 @@ A seguir, são apresentados alguns dos Indicadores Chaves de Performance (KPIs) 
 
 ## Modelagem dos Dados
 
+A modelagem dos dados foi desenvolvida com o objetivo de estruturar e organizar as informações de forma consistente, por meio de um Diagrama de Entidade-Relacionamento (DER). O modelo foi construído considerando as principais entidades do negócio e seus relacionamentos.
 
-A modelagem dos dados foi desenvolvida com o objetivo de organizar as informações de forma estruturada com o Diagrama de Entidade e Relacionamento (DER).
-O modelo foi construído considerando as todas entidades do negócio, como:
+As principais entidades contempladas no modelo incluem:
+
 - Ofertas
 - Reservas
 - Práticas Sustentáveis
-- Avaliação
+- Avaliações
+- Clientes
+- Operadores
 
-Essa estrutura facilita a análise no SQL e a construção de dashboards no Power BI.
+Essa estrutura permite consultas eficientes em SQL e oferece suporte à construção de dashboards analíticos no Power BI.
+
 ![Diagrama](1.%20Modelagem-dados/diagrama.png)
 
-Componentes de dados principais:
+**Componentes Principais dos Dados**
 
-- Informações das reservas: identificadores, datas e o número e status dessas reservas.
-- Detalhes dos Operadores: empresas ou guias que oferecem essas experiências
-- Ofertas: identificador, tipo de oferta e o preço
-- Dados de Clientes: nome, email, data de nascimento e cidade.
-- Detalhes Avaliação: notas, comentários e data dessa avaliação.
-- Práticas Sustentáveis: os tipos de prática, como...
+O modelo foi organizado a partir dos seguintes grupos de informações:
+
+- **Informações de Reservas:** identificadores únicos, datas, quantidade de reservas e status (confirmada, cancelada, etc.);
+- **Dados de Operadores:** informações sobre empresas ou guias responsáveis pelas experiências;
+- **Ofertas:** identificador da oferta, tipo de experiência e preço;
+- **Dados de Clientes:** nome, e-mail, data de nascimento e localização;
+- **Avaliações:** notas atribuídas pelos clientes, comentários e data da avaliação;
+- **Práticas Sustentáveis:** classificação das práticas adotadas, como conservação ambiental, apoio à comunidade local, entre outras.
 
 ## Análise dos Dados via SQL
 
