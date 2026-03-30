@@ -1,13 +1,12 @@
 <p align="center">
   <img src="3.%20Relatório/logo.png" width="750"/>
 </p>
-<h1 align="center"> Projeto EcoViagens: Plataforma de Reservas de Turismo Sustentável</h1>
 
 <h2 align="center"> Contexto do Projeto</h2><p align="center">
 
-A **EcoViagens** é uma empresa de turismo sustentável fictícia sediada no Brasil que é voltada para a oferta de experiências ecológicas em parceria com operadores locais, promovendo práticas que geram impacto positivo ao meio ambiente e às comunidades. Os dados disponíveis abragem dimensões e métricas, incluindo reservas, informações sobre os operadores e atividades e análises relacionadas com a sustentabilidade.
+A **EcoViagens** é uma plataforma de turismo sustentável sediada no Brasil que é voltada para a oferta de experiências ecológicas em parceria com operadores locais, promovendo práticas que geram impacto positivo ao meio ambiente e às comunidades. Os dados disponíveis abragem dimensões e métricas, incluindo reservas, informações sobre os operadores e atividades e análises relacionadas com a sustentabilidade.
 
-Nesse sentido, esse projeto visa analisar para avaliar o desempenho da **Ecoviagens** no período de junho de 2024 a junho de 2025. Essa análise fornece informações para ajudar a monitorar o desempenho da plataforma e transformar insights em decisões de negócios da **EcoViagens**. A partir disso, os principais indicadores e métricas são:
+Nesse sentido, esse projeto utiliza um conjunto de dados ficticios visando analisar e avaliar o desempenho da **Ecoviagens** no período de junho de 2024 a junho de 2025. Essa análise fornece informações para ajudar a monitorar o desempenho da plataforma e transformar insights em decisões de negócios da **EcoViagens**. A partir disso, os principais indicadores e métricas são:
 
 **Principais Indicadores Chave de Desempenho (KPI):**
 - Receita Bruta por Mês: medir o volume de vendas e a adesão dos clientes à plataforma;
@@ -28,6 +27,15 @@ O modelo foi construído considerando as todas entidades do negócio, como:
 
 Essa estrutura facilita a análise no SQL e a construção de dashboards no Power BI.
 ![Diagrama](1.%20Modelagem-dados/diagrama.png)
+
+Componentes de dados principais:
+
+- Informações das reservas: identificadores, datas e o número e status dessas reservas.
+- Detalhes dos Operadores: empresas ou guias que oferecem essas experiências
+- Ofertas: identificador, tipo de oferta e o preço
+- Dados de Clientes: nome, email, data de nascimento e cidade.
+- Detalhes Avaliação: notas, comentários e data dessa avaliação.
+- Práticas Sustentáveis: os tipos de prática, como...
 
 <h2 align="center"> Análise dos Dados via SQL</h2><p align="center">
 
@@ -80,14 +88,19 @@ Monitoramento:
 ![Relatório](3.%20Relatório/dashboard%20DQ.png)
 
 <h2 align="center"> Conclusão & Recomendações</h2><p align="center">
+
 Essa análise dos dados da plataforma Ecoviagens revelou alguns insights sobre fatores que influenciam... Nesse sentido, serão destacados os principais achados nesse estudo.
-- A plataforma apresenta um volume total de 791 reservas concluídas, indicando uma base ativa de utilização, porém ainda com potencial de crescimento
 
-- Observa-se uma concentração de reservas em meses específicos, possivelmente associado a períodos de férias e maior disponibilidade dos clientes
+- A plataforma apresenta um volume total de **791 reservas concluídas**, indicando uma base ativa de utilização, porém ainda com potencial de crescimento
 
-- A maior parte das reservas está associada a ofertas com práticas sustentáveis, indicando que esse fator pode influenciar positivamente a decisão dos clientes
+- Observa-se uma concentração de reservas em meses específicos, possivelmente associado a **períodos de férias e maior disponibilidade dos clientes**
 
-- A receita apresenta variação ao longo dos meses, acompanhando o volume de reservas, o que reforça a relação direta entre demanda e faturamento da plataforma
+- A maior parte das reservas está associada a **ofertas com práticas sustentáveis**, indicando que esse fator pode influenciar positivamente a decisão dos clientes
 
-- A avaliação média de 2,99 indica um nível de satisfação abaixo do ideal, sugerindo a necessidade de melhorias na experiência do cliente
+- A receita apresenta **variação ao longo dos meses**, acompanhando o volume de reservas, o que reforça a relação direta entre demanda e faturamento da plataforma
 
+- A avaliação média de **2,99** indica um nível de satisfação **abaixo do ideal**, sugerindo a necessidade de melhorias na experiência do cliente
+
+Nesse sentido, é importante ressaltar que, para melhorar o ambiente organizacional, existem algumas recomendações adicionais:
+
+1. 
