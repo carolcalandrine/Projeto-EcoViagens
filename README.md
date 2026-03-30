@@ -2,7 +2,7 @@
   <img src="3.%20Relatório/logo.png" width="750"/>
 </p>
 
-<h2 align="center"> Contexto do Projeto</h2><p align="center">
+## Contexto do Projeto
 
 A **EcoViagens** é uma plataforma de turismo sustentável sediada no Brasil que é voltada para a oferta de experiências ecológicas em parceria com operadores locais, promovendo práticas que geram impacto positivo ao meio ambiente e às comunidades. Os dados disponíveis abragem dimensões e métricas, incluindo reservas, informações sobre os operadores e atividades e análises relacionadas com a sustentabilidade.
 
@@ -15,7 +15,7 @@ Nesse sentido, esse projeto utiliza um conjunto de dados ficticios visando anali
 - Média de Práticas Sustentáveis:
 
 
-<h2 align="center"> Modelagem dos Dados</h2><p align="center">
+## Modelagem dos Dados
 
 
 A modelagem dos dados foi desenvolvida com o objetivo de organizar as informações de forma estruturada com o Diagrama de Entidade e Relacionamento (DER).
@@ -37,7 +37,7 @@ Componentes de dados principais:
 - Detalhes Avaliação: notas, comentários e data dessa avaliação.
 - Práticas Sustentáveis: os tipos de prática, como...
 
-<h2 align="center"> Análise dos Dados via SQL</h2><p align="center">
+## Análise dos Dados via SQL
 
 Com os dados estruturados no ambiente relacional, foram desenvolvidas consultas SQL analíticas com o objetivo de responder às principais questões de negócio da plataforma EcoViagens.
 Entre as análises realizadas, destacam-se:
@@ -65,7 +65,7 @@ ORDER BY
   ano ASC, mes ASC;
 ```
 
-<h2 align="center"> Dashboard de Desempenho da Plataforma</h2><p align="center">
+## Dashboard de Desempenho da Plataforma
 
 Este projeto conta com um dashboard interativo desenvolvido no Power BI que permite analisar e monitorar o desempenho 
 
@@ -87,7 +87,7 @@ Monitoramento:
 
 ![Relatório](3.%20Relatório/dashboard%20DQ.png)
 
-<h2 align="center"> Conclusão & Recomendações</h2><p align="center">
+## Conclusão & Recomendações
 
 Essa análise dos dados da plataforma Ecoviagens revelou alguns insights sobre fatores que influenciam... Nesse sentido, serão destacados os principais achados nesse estudo.
 
