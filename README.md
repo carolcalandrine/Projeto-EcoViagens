@@ -8,12 +8,12 @@ A EcoViagens é uma plataforma brasileira de turismo sustentável, dedicada à o
 
 Neste contexto, o presente projeto utiliza um conjunto de dados fictícios com o objetivo de analisar e avaliar o desempenho da EcoViagens no período de junho de 2024 a junho de 2025. A análise busca gerar insights relevantes para o monitoramento da performance da plataforma, apoiando a tomada de decisões estratégicas e orientadas por dados.
 
-A partir disso, foram definidos os seguintes Indicadores-Chave de Desempenho (KPIs):
+A seguir, são apresentados alguns dos Indicadores Chaves de Performance (KPIs) utilizados na análise:
 
-**Receita Bruta por Mês:** mensurar o volume de vendas e o nível de adesão dos clientes à plataforma;
-**Taxa de Cancelamento:** identificar possíveis falhas operacionais e níveis de insatisfação dos clientes;
-**Avaliação Média:** avaliar a satisfação dos usuários e a qualidade percebida dos serviços;
-**Média de Práticas Sustentáveis:** mensurar o nível de adesão às práticas sustentáveis por parte dos operadores e experiências oferecidas.
+- **Receita Bruta por Mês:** mensurar o volume de vendas e o nível de adesão dos clientes à plataforma;<br>
+- **Taxa de Cancelamento**: identificar possíveis falhas operacionais e níveis de insatisfação dos clientes;
+- **Avaliação Média**: avaliar a satisfação dos usuários e a qualidade percebida dos serviços;
+- **Média de Práticas Sustentáveis:** mensurar o nível de adesão às práticas sustentáveis por parte dos operadores e experiências oferecidas.
 
 
 ## Modelagem dos Dados
