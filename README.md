@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="3.%20Relatório/logo.png" width="750"/>
+  <img src="dashboard/logo.png" width="750"/>
 </p>
 
 ## Contexto do Projeto
@@ -93,9 +93,9 @@ Monitoramento de Indicadores:
 
 O painel foi estruturado para apoiar a tomada de decisão, permitindo identificar padrões de comportamento, oportunidades de melhoria e o impacto das práticas sustentáveis no desempenho da plataforma. A visualização do relatório pode ser visualizado abaixo:
 
-![Relatório](3.%20Relatório/dashboard%20DS.png)
+![Relatório](dashboard/dashboard%20DS.png)
 
-![Relatório](3.%20Relatório/dashboard%20DQ.png)
+![Relatório](dashboard/dashboard%20DQ.png)
 
 ## Conclusão & Recomendações
 
