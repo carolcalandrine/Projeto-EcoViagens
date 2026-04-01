@@ -8,7 +8,7 @@ Primeiramentee foram identificados a quantidade de reservas concluídas na plata
 
 A partir disso foi analisada a quanridade de reservas que a plataforma realizou nos meses ao longo do tempo, a qual foi utilizada somente as reservas como concluídas.
 
-<img src="./Imagem2.png" width="400">
+<img src="imagens/Imagem2.png" width="400">
 
 Os resultados da análise por reserva ao longo dos meses mostram que o mês de outubro de 2024 obteve a maior quantidade de reservas com 82 reservas, seguido por janeiro de 2025 com 72 reservas. Isso mostra,...
 
@@ -16,7 +16,7 @@ Os resultados da análise por reserva ao longo dos meses mostram que o mês de o
 A questão das práticas sustentaáveis pode desempenhar um papel importante na decisão dos clientes de reservarem....
 Na análise de volume de reservas por práticas sustentáveis as práticas sustentáveis mais relevantes demonstraram que o Plantio de árvores nativas com 47 reservas, seguindo por Compostagens de resíduos orgânicos e Economia circular com 43 reservas.
 
-<img src="./Imagem2.png" width="400">
+<img src="imagens/Imagem2.png" width="400">
 
 Abaixo foi realizada a quantidade de reservas com Prática sutentável ou sem Prática sustentável, sendo o impacto das práticas nas reservas.
 * imagem
