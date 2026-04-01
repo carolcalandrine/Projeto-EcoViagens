@@ -16,7 +16,7 @@ Os resultados da análise por reserva ao longo dos meses mostram que o mês de o
 A questão das práticas sustentaáveis pode desempenhar um papel importante na decisão dos clientes de reservarem....
 Na análise de volume de reservas por práticas sustentáveis as práticas sustentáveis mais relevantes demonstraram que o Plantio de árvores nativas com 47 reservas, seguindo por Compostagens de resíduos orgânicos e Economia circular com 43 reservas.
 
-<img src="imagens/Imagem2.png" width="400">
+<img src="imagens/Imagem3.png" width="400">
 
 Abaixo foi realizada a quantidade de reservas com Prática sutentável ou sem Prática sustentável, sendo o impacto das práticas nas reservas.
 * imagem
