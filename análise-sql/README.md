@@ -7,16 +7,17 @@ E mais, na variável **status** utilizamos UPPER para padronizar os dados.
 
 * imagem
 
-Em seguida, analisou-se a evolução do volume de reservas ao longo dos meses:
+Em seguida, analisou-se a evolução do volume de reservas ao longo dos meses. Nesta análise, utilizou-se a função EXTRACT para extrair o mês e ano da variável **data_reserva**:
 
 <p align="center">
   <img src="./imagens/Imagem2.png" width="400">
 </p>
 
-Os resultados mostram que o mês de outubro de 2024 apresentou o maior volume, com 82 reservas, seguido por janeiro de 2025, com 72 reservas. Esse comportamento pode indicar a presença de sazonalidade na demanda, possivelmente relacionada a períodos de maior procura por viagens.
+Os resultados mostram que o mês de outubro de 2024 apresentou o maior volume, com 82 reservas, seguido por janeiro de 2025, com 72 reservas. Esse comportamento pode indicar a presença de sazonalidade, possivelmente relacionada a períodos de maior procura por viagens. 
 
 ### Análise por Práticas Sustentáveis
-As práticas sustentáveis podem desempenhar um papel relevante na decisão dos clientes. Nesse contexto, foi analisado o volume de reservas associado a cada prática.
+As práticas sustentáveis podem desempenhar um papel relevante na decisão dos clientes. Nesse contexto, foi analisado o volume de reservas associado a cada prática, considerando o Top 5 maiores reservas em relação as
+práticas.
 Os resultados indicam que o "Plantio de árvores nativas" foi a prática mais presente, com 47 reservas, seguido por "Compostagem de resíduos orgânicos" e "Economia circular", ambas com 43 reservas.
 
 <p align="center">
@@ -24,6 +25,7 @@ Os resultados indicam que o "Plantio de árvores nativas" foi a prática mais pr
 </p>
 
 Também foi realizada uma análise comparando reservas com e sem práticas sustentáveis. Observou-se que as reservas com práticas sustentáveis são superiores às sem essas práticas, sugerindo uma possível preferência dos clientes por opções com menor impacto ambiental.
+
 <p align="center">
   <img src="./imagens/Imagem4.png" width="400">
 </p>
