@@ -6,7 +6,7 @@
 
 A EcoViagens é uma plataforma brasileira de turismo sustentável, dedicada à oferta de experiências ecológicas em parceria com operadores locais. Seu objetivo é promover práticas que gerem impacto positivo tanto para o meio ambiente quanto para as comunidades envolvidas. A base de dados disponível contempla diferentes dimensões e métricas, incluindo informações sobre reservas, operadores, atividades e indicadores relacionados à sustentabilidade.
 
-Neste contexto, o presente projeto utiliza um conjunto de dados fictícios com o objetivo de analisar e avaliar o desempenho da EcoViagens no período de junho de 2024 a junho de 2025. A análise busca gerar insights relevantes para o monitoramento da performance da plataforma, apoiando a tomada de decisões estratégicas e orientadas por dados.
+Neste contexto, o presente projeto utiliza um conjunto de dados com o objetivo de analisar e avaliar o desempenho da EcoViagens no período de junho de 2024 a junho de 2025. A análise busca gerar insights relevantes para o monitoramento da performance da plataforma, apoiando a tomada de decisões estratégicas.
 
 A seguir, são apresentados alguns dos Indicadores Chaves de Performance (KPIs) utilizados na análise:
 
@@ -91,7 +91,7 @@ Monitoramento de Indicadores:
 - Ticket médio  
 - Avaliação média dos clientes
 
-O painel foi estruturado para apoiar a tomada de decisão, permitindo identificar padrões de comportamento, oportunidades de melhoria e o impacto das práticas sustentáveis no desempenho da plataforma. A visualização do relatório pode ser visualizado abaixo:
+O painel foi estruturado para apoiar a tomada de decisão, permitindo identificar padrões de comportamento, oportunidades de melhoria e o impacto das práticas sustentáveis no desempenho da plataforma. O relatório pode ser visualizado abaixo:
 
 ![Relatório](dashboard/dashboard%20DS.png)
 
@@ -113,7 +113,7 @@ Essa análise dos dados da plataforma Ecoviagens revelou alguns insights sobre f
 
 Nesse sentido, é importante ressaltar que, para melhorar o desempenho da plataforma EcoViagens e potencializar seus resultados, diversas estratégias podem ser implementadas:
 
-  1. **Otimização da Demanda ao Longo do Tempo**:Implementar campanhas promocionais em períodos de baixa demanda, visando equilibrar o volume de reservas ao longo do tempo e aumentar a receita
+  1. **Otimização da Demanda ao Longo do Tempo**: Implementar campanhas promocionais em períodos de baixa demanda, visando equilibrar o volume de reservas ao longo do tempo e aumentar a receita
   
   2. **Redução da Taxa de Cancelamento**: Revisar políticas de cancelamento e melhorar a comunicação com os clientes no pré-serviço, reduzindo incertezas e aumentando a retenção de reservas
   
