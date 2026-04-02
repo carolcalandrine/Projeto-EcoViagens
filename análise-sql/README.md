@@ -2,11 +2,12 @@
 Foram realizadas análises em SQL com o objetivo de explorar os dados da plataforma EcoViagens e compreender seu desempenho sob diferentes perspectivas.
 
 ### Análise por Reservas
-Inicialmente, foi identificada a quantidade total de reservas concluídas na plataforma.
+Inicialmente, foi identificada a quantidade total de reservas concluídas na plataforma, e considerando apenas as reservas com status "concluída".
+E mais, na variável **status** utilizamos UPPER para padronizar os dados.
 
 * imagem
 
-Em seguida, foi analisada a evolução do volume de reservas ao longo dos meses, considerando apenas reservas com status "concluída".
+Em seguida, analisou-se a evolução do volume de reservas ao longo dos meses:
 
 <p align="center">
   <img src="./imagens/Imagem2.png" width="400">
