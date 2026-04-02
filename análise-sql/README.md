@@ -9,7 +9,7 @@ E mais, na variável **status** utilizamos UPPER para padronizar os dados.
   <img src="./imagens/Imagem9.png" width="400">
 </p>
 
-Em seguida, analisou-se a evolução do volume de reservas ao longo dos meses. Nesta análise, utilizou-se a função EXTRACT para extrair o mês e ano da variável **data_reserva**:
+Em seguida, analisou-se a evolução do volume de reservas ao longo dos meses. Nesta análise, foi utilizado a função EXTRACT para extrair o mês e ano da variável **data_reserva**:
 
 <p align="center">
   <img src="./imagens/Imagem2.png" width="400">
