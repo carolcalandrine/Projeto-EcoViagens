@@ -114,8 +114,8 @@ Insights do Dashboard:
 ## Conclusão & Recomendações
 
 A análise dos dados mostra que a EcoViagens ainda enfrenta oscilações importantes. A variação constante na receita e nas reservas dificulta a previsão do faturamento para os próximos meses.
-Além disso, o baixo número de clientes que voltam a comprar e a nota média de satisfação indicam que a experiência do usuário precisa melhorar. Hoje, a plataforma depende muito de atrair novos clientes para continuar crescendo, em vez de fidelizar os atuais.
-Outro ponto de atenção: as práticas sustentáveis atraem muitas reservas, mas ainda não estão se traduzindo em um aumento real no lucro, o que sugere que esse diferencial pode ser melhor explorado estrategicamente.
+Além disso, o baixo número de clientes que voltam a comprar e a nota média de satisfação indicam que a experiência do usuário precisa melhorar. Hoje, a plataforma depende muito entrada de novos usuários para continuar crescendo, de focar na retenção de quem já conhece a marca.. Outro ponto de atenção: as práticas sustentáveis atraem muitas reservas, mas ainda não estão se traduzindo em um aumento real no lucro, o que sugere que esse diferencial pode ser melhor explorado estrategicamente.
+
 Nesse sentido, é importante ressaltar que, para melhorar o desempenho da plataforma EcoViagens e potencializar seus resultados, diversas estratégias podem ser implementadas:
 
   1. **Otimização da Demanda ao Longo do Tempo**: implementar campanhas promocionais em períodos de baixa demanda, visando equilibrar o volume de reservas ao longo do tempo e aumentar a receita
