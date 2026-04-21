@@ -79,18 +79,18 @@ Este projeto conta com um dashboard interativo desenvolvido no Power BI, com o o
 
 Visualizações:
 
-- Evolução das receitas e do volume de reservas ao longo do tempo  
-- Distribuição das reservas e ticket médio por tipo de oferta  
-- Análise da avaliação dos clientes ao longo do tempo e por tipo de oferta  
+- Evolução das receitas e do volume de reservas ao longo do tempo
+- Distribuição das reservas e ticket médio por tipo de oferta
+- Análise da avaliação dos clientes ao longo do tempo e por tipo de oferta
 - Comparação entre a receita gerada e a popularidade das práticas sustentáveis
 
-Monitoramento de Indicadores:
+Indicadores monitorados:
 
-- Taxa de fidelização  
-- Taxa de cancelamento  
-- Total de reservas concluídas  
-- Receita total  
-- Ticket médio  
+- Taxa de fidelização
+- Taxa de cancelamento
+- Total de reservas concluídas
+- Receita total
+- Ticket médio
 - Avaliação média dos clientes
 
 O painel foi estruturado para apoiar a tomada de decisão, permitindo identificar padrões de comportamento, oportunidades de melhoria e o impacto das práticas sustentáveis no desempenho da plataforma. O relatório pode ser visualizado abaixo:
@@ -99,28 +99,31 @@ O painel foi estruturado para apoiar a tomada de decisão, permitindo identifica
 
 ![Relatório](dashboard/dashboard%20DQ.png)
 
+Insights do Dashboard:
+
+- Receita: a receita oscila ao longo do tempo, sem crescimento contínuo. O valor mais baixo no último mês pode estar relacionado ao fato de ser um mês parcial.
+
+- Reservas: o volume de reservas apresenta variações ao longo do período, com redução no final. O comportamento não é estável ao longo do tempo.
+
+- Avaliação: a avaliação média se mantém próxima de 3 ao longo do período. Não há melhora significativa nas notas dos clientes.
+
+- Fidelização: a taxa de fidelização é baixa. Não há crescimento consistente ao longo do tempo.
+
+- Sustentabilidade: a maior parte das reservas está concentrada em ofertas com práticas sustentáveis. Não se observa um padrão claro entre práticas sustentáveis e receita.
+
 ## Conclusão & Recomendações
 
-Essa análise dos dados da plataforma Ecoviagens revelou alguns insights sobre fatores que influenciam... Nesse sentido, serão destacados os principais achados nesse estudo.
-
-- A plataforma apresenta um volume total de **791 reservas concluídas**, indicando uma base ativa de utilização, porém ainda com potencial de crescimento
-
-- Observa-se uma concentração de reservas em meses específicos, possivelmente associado a **períodos de férias e maior disponibilidade dos clientes**
-
-- A maior parte das reservas está associada a **ofertas com práticas sustentáveis**, indicando que esse fator pode influenciar positivamente a decisão dos clientes
-
-- A receita apresenta **variação ao longo dos meses**, acompanhando o volume de reservas, o que reforça a relação direta entre demanda e faturamento da plataforma
-
-- A avaliação média de **2,99** indica um nível de satisfação **abaixo do ideal**, sugerindo a necessidade de melhorias na experiência do cliente
-
+A análise dos dados mostra que a EcoViagens ainda enfrenta oscilações importantes. A variação constante na receita e nas reservas dificulta a previsão do faturamento para os próximos meses.
+Além disso, o baixo número de clientes que voltam a comprar e a nota média de satisfação indicam que a experiência do usuário precisa melhorar. Hoje, a plataforma depende muito de atrair novos clientes para continuar crescendo, em vez de fidelizar os atuais.
+Outro ponto de atenção: as práticas sustentáveis atraem muitas reservas, mas ainda não estão se traduzindo em um aumento real no lucro, o que sugere que esse diferencial pode ser melhor explorado estrategicamente.
 Nesse sentido, é importante ressaltar que, para melhorar o desempenho da plataforma EcoViagens e potencializar seus resultados, diversas estratégias podem ser implementadas:
 
-  1. **Otimização da Demanda ao Longo do Tempo**: Implementar campanhas promocionais em períodos de baixa demanda, visando equilibrar o volume de reservas ao longo do tempo e aumentar a receita
+  1. **Otimização da Demanda ao Longo do Tempo**: implementar campanhas promocionais em períodos de baixa demanda, visando equilibrar o volume de reservas ao longo do tempo e aumentar a receita
   
-  2. **Redução da Taxa de Cancelamento**: Revisar políticas de cancelamento e melhorar a comunicação com os clientes no pré-serviço, reduzindo incertezas e aumentando a retenção de reservas
+  2. **Redução da Taxa de Cancelamento**: revisar políticas de cancelamento e melhorar a comunicação com os clientes no pré-serviço, reduzindo incertezas e aumentando a retenção de reservas
   
-  3. **Melhoria da Experiência do Cliente**: Monitorar continuamente o desempenho dos operadores com base nas avaliações e implementar programas de melhoria para aqueles com desempenho abaixo da média
+  3. **Melhoria da Experiência do Cliente**: monitorar continuamente o desempenho dos operadores com base nas avaliações e implementar programas de melhoria para aqueles com desempenho abaixo da média
   
-  4. **Incentivo às Práticas Sustentáveis:** Criar mecanismos de incentivo, como maior visibilidade na plataforma ou benefícios para operadores que adotam práticas sustentáveis, pode aumentar o engajamento com a proposta ecológica da EcoViagens
+  4. **Incentivo às Práticas Sustentáveis:** criar mecanismos de incentivo, como maior visibilidade na plataforma ou benefícios para operadores que adotam práticas sustentáveis, pode aumentar o engajamento com a proposta ecológica da EcoViagens
 
 Além das recomendações apresentadas, é fundamental que a plataforma esteja atenta às mudanças no comportamento dos consumidores e às tendências do mercado de turismo sustentável.
